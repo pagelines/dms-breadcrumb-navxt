@@ -8,6 +8,6 @@
 	Demo:
 	Version: 1.0
 	PageLines: true
-    v3: true
+	v3: true
 	Filter: nav
 */
